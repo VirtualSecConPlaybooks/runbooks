@@ -9,7 +9,7 @@ In this post, I share the basic, yet effective setup that I used to stream the w
 
 The setup was very simple:
 
-~[](https://miro.medium.com/max/1400/1*eCS7QykHji2PYvyibHeZGQ.png)
+![](https://miro.medium.com/max/1400/1*eCS7QykHji2PYvyibHeZGQ.png)
 
 Speakers joined a Webex bridge, a laptop was setup as a Webex client and the audio and video was captured by a capture card in a Linux (Ubuntu) system running Open Broadcaster Software (OBS). Yes, you can use the same Linux box with Webex and capture desktop audio and video in different scenes in OBS; however, I ran into some issues of audio being cut every few minutes during streams.
 
